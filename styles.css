@@ -1,0 +1,19 @@
+.flexbox-container {
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+  background: #ccc;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-end;
+}
+
+.flex-block {
+  background: #939393;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
